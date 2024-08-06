@@ -1,0 +1,17 @@
+# ninja log v6
+1	41	7441350233434931	CMakeFiles/TestMultipleThings.dir/main.c.obj	ffad9a45b532f072
+42	95	7441350233835598	TestMultipleThings.exe	4e9f02e4d097caab
+13	52	7441350785290483	CMakeFiles/TestMultipleThings.dir/main.c.obj	ffad9a45b532f072
+53	101	7441350785690892	TestMultipleThings.exe	4e9f02e4d097caab
+15	54	7441351046377222	CMakeFiles/TestMultipleThings.dir/main.c.obj	ffad9a45b532f072
+54	108	7441351046767625	TestMultipleThings.exe	4e9f02e4d097caab
+23	62	7441352092039650	CMakeFiles/TestMultipleThings.dir/main.c.obj	ffad9a45b532f072
+62	110	7441352092420763	TestMultipleThings.exe	4e9f02e4d097caab
+11	51	7441352315100369	CMakeFiles/TestMultipleThings.dir/main.c.obj	ffad9a45b532f072
+52	102	7441352315500367	TestMultipleThings.exe	4e9f02e4d097caab
+17	53	7441352753339074	CMakeFiles/TestMultipleThings.dir/main.c.obj	ffad9a45b532f072
+54	100	7441352753719075	TestMultipleThings.exe	4e9f02e4d097caab
+12	49	7441354119171025	CMakeFiles/TestMultipleThings.dir/main.c.obj	ffad9a45b532f072
+50	97	7441354119551068	TestMultipleThings.exe	4e9f02e4d097caab
+13	55	7441358728619644	CMakeFiles/TestMultipleThings.dir/main.c.obj	ffad9a45b532f072
+55	115	7441358729045436	TestMultipleThings.exe	4e9f02e4d097caab
